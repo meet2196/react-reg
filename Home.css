@@ -1,0 +1,13 @@
+.container{
+    background-color: aqua;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+.row-login-homepage{
+    background-color: azure;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    
+}
